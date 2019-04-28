@@ -4,14 +4,14 @@ Authentication App using Node JS, Passport JS and MongoDB
 #npm install
 #npm run dev
 
-Login/Register
+Home
 ![](images/Auth_App01.png)
 
-Login/Register
+Register
 ![](images/Auth_App02.png)
 
-Login/Register
+Login
 ![](images/Auth_App03.png)
 
-Login/Register
+Dashboard
 ![](images/Auth_App04.png)
